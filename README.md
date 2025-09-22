@@ -97,14 +97,6 @@ Update the `data` arrays in each chart configuration to reflect your business me
 ### Styling Changes
 Modify the Tailwind configuration object or add custom CSS classes as needed.
 
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 **Created by MattiaCode** - Showcasing modern data visualization techniques
